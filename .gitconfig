@@ -1,0 +1,13 @@
+[user]
+	name = jrotolo
+	email = jrotolo91@gmail.com
+
+[alias]
+	st = status
+	co = checkout
+[github]
+	user = jrotolo
+[push]
+	default = simple
+[credential]
+	helper = osxkeychain
